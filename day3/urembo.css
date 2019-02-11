@@ -1,0 +1,54 @@
+body{
+    background-color: aliceblue;
+}
+h2{
+    text-align: center;
+    color: aqua;
+    text-shadow: 2px 4px 16px darkred;
+}
+table{
+    width: 50%;
+    background-color: chocolate;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+th,td{
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
+table,th,td{
+    border: 2px solid bisque;
+    border-collapse: collapse;
+    padding: 12px ;
+
+}
+#cup{
+    color: darkred;
+    font-weight: normal;
+    font-size: medium;
+}
+#me{
+    background-color: aqua;
+    color: chocolate;
+}
+.changer{
+    background-color: darkred;
+    color: blue;
+}
+.changer1{
+    background-color: blueviolet;
+    color:red;
+}
+#centering{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}
+.footer{
+    color: blueviolet;
+    background-color: chocolate;
+    padding: 30px;
+
+}
